@@ -1,0 +1,611 @@
+{
+"anleitung": [
+{
+"art": "h",
+"t": [
+"Anleitung zur Benutzung des Finanzplanungstool „HHR Financial Plan“",
+"Instructions for using the “HHR Financial Plan” financial planning tool",
+"Instructions d'utilisation de l'outil de planification financière « HHR Financial Plan »",
+"Istruzioni per l'uso dello strumento di pianificazione finanziaria “HHR Financial Plan”",
+"Instrucciones para el uso de la herramienta de planificación financiera «HHR Financial Plan»",
+"Instruções para utilizar a ferramenta de planeamento financeiro «HHR Financial Plan»",
+"Finansal planlama aracı “HHR Financial Plan” kullanım kılavuzu",
+"Instrukcja obsługi narzędzia do planowania finansowego „HHR Financial Plan”",
+"Petunjuk penggunaan alat perencanaan keuangan “HHR Financial Plan”",
+"Інструкція з використання інструменту фінансового планування «HHR Financial Plan»",
+"Instruções para usar a ferramenta de planejamento financeiro “HHR Financial Plan”"
+]
+},
+{
+"art": "p",
+"t": [
+"Vielen Dank und herzlichen Glückwunsch, dass Sie sich für die Nutzung des Finanzplanungstool „HHR Financial Plan“ entschieden haben.",
+"Thank you and congratulations on choosing to use the “HHR Financial Plan” financial planning tool.",
+"Merci beaucoup et félicitations d'avoir choisi d'utiliser l'outil de planification financière « HHR Financial Plan ».",
+"Grazie mille e congratulazioni per aver deciso di utilizzare lo strumento di pianificazione finanziaria “HHR Financial Plan”.",
+"Muchas gracias y enhorabuena por haber decidido utilizar la herramienta de planificación financiera «HHR Financial Plan».",
+"Muito obrigado e parabéns por ter escolhido utilizar a ferramenta de planeamento financeiro «HHR Financial Plan».",
+"Finansal planlama aracı “HHR Financial Plan”ı kullanmaya karar verdiğiniz için teşekkür eder, tebrikler sunarız.",
+"Dziękujemy i gratulujemy decyzji o skorzystaniu z narzędzia do planowania finansowego „HHR Financial Plan”.",
+"Terima kasih dan selamat atas keputusan Anda untuk menggunakan alat perencanaan keuangan “HHR Financial Plan”.",
+"Дякуємо та вітаємо вас з рішенням використовувати інструмент фінансового планування «HHR Financial Plan».",
+"Muito obrigado e parabéns por ter escolhido usar a ferramenta de planejamento financeiro “HHR Financial Plan”."
+]
+},
+{
+"art": "p",
+"t": [
+"Das Finanzplanungstool „HHR Financial Plan“ ist ein effektives Instrument für die zahlenbasierte Finanzplanung Ihres Unternehmens. Es ist speziell für Existenzgründungen bzw. Start-ups geeignet, egal in welcher Rechtsform, kann aber auch für alle anderen Unternehmen genutzt werden.",
+"The “HHR Financial Plan” financial planning tool is an effective instrument for the number-based financial planning of your company. It is particularly suitable for start-ups, regardless of their legal form, but can also be used for all other companies.",
+"L'outil de planification financière « HHR Financial Plan » est un instrument efficace pour la planification financière chiffrée de votre entreprise. Il est spécialement conçu pour les créateurs d'entreprise ou les start-ups, quelle que soit leur forme juridique, mais peut également être utilisé par toutes les autres entreprises.",
+"Lo strumento di pianificazione finanziaria “HHR Financial Plan” è uno strumento efficace per la pianificazione finanziaria basata sui dati della Sua azienda. È particolarmente adatto alle start-up e alle imprese in fase di avvio, indipendentemente dalla forma giuridica, ma può essere utilizzato anche da tutte le altre aziende.",
+"La herramienta de planificación financiera «HHR Financial Plan» es un instrumento eficaz para la planificación financiera basada en cifras de su empresa. Está especialmente indicada para empresas de nueva creación o start-ups, independientemente de su forma jurídica, pero también puede utilizarse para cualquier otro tipo de empresa.",
+"A ferramenta de planeamento financeiro «HHR Financial Plan» é um instrumento eficaz para o planeamento financeiro baseado em números da sua empresa. É especialmente adequada para empresas em fase de arranque ou start-ups, independentemente da sua forma jurídica, mas também pode ser utilizada por todas as outras empresas.",
+"Finansal planlama aracı “HHR Financial Plan”, şirketinizin sayılara dayalı finansal planlaması için etkili bir araçtır. Her türlü yasal yapıdaki yeni kurulan şirketler ve start-up'lar için özel olarak tasarlanmıştır, ancak diğer tüm şirketler tarafından da kullanılabilir.",
+"Narzędzie do planowania finansowego „HHR Financial Plan” jest skutecznym instrumentem do planowania finansowego Państwa przedsiębiorstwa w oparciu o dane liczbowe. Jest ono przeznaczone specjalnie dla nowo powstałych przedsiębiorstw lub start-upów, niezależnie od formy prawnej, ale może być również wykorzystywane przez wszystkie inne przedsiębiorstwa.",
+"Alat perencanaan keuangan “HHR Financial Plan” adalah instrumen yang efektif untuk perencanaan keuangan berbasis angka untuk perusahaan Anda. Alat ini sangat cocok untuk pendirian usaha atau start-up, apa pun bentuk hukumnya, tetapi juga dapat digunakan untuk semua perusahaan lain.",
+"Інструмент фінансового планування «HHR Financial Plan» є ефективним інструментом для фінансового планування вашого підприємства на основі цифр. Він спеціально призначений для створення підприємств або стартапів, незалежно від їхньої правової форми, але може використовуватися і для всіх інших підприємств.",
+"A ferramenta de planejamento financeiro “HHR Financial Plan” é um instrumento eficaz para o planejamento financeiro baseado em números da sua empresa. É especialmente adequada para empresas em fase de constituição ou start-ups, independentemente da forma jurídica, mas também pode ser utilizada por todas as outras empresas."
+]
+},
+{
+"art": "p",
+"t": [
+"Im ersten Moment mutet die Finanzübersicht umfangreich an. Sie werden sich aber schnell zurechtfinden. Sie werden sogar schnell feststellen, dass mit dem Finanzplanungstool „HHR Financial Plan“ der Planungsvorgang sehr komfortabel und einfach zu bewerkstelligen ist. Vieles wird automatisch errechnet und in die Folgemonate und Folgejahre übernommen. Es sind keine \"Doppeleintragungen\" notwendig. Mit dem Finanzplanungstool „HHR Financial Plan“ lässt sich Ihr Finanzplan mit sehr überschaubarem Zeitaufwand in hoher Qualität erstellen.",
+"At first glance, the financial overview may seem extensive. However, you will quickly find your way around. You will even quickly discover that the “HHR Financial Plan” financial planning tool makes the planning process very convenient and easy to manage. Much of the information is calculated automatically and carried over to the following months and years. No “double entries” are necessary. With the “HHR Financial Plan” financial planning tool, you can create a high-quality financial plan in a very short amount of time.",
+"Au premier abord, l'aperçu financier peut sembler complet. Mais vous vous y retrouverez rapidement. Vous constaterez même rapidement que l'outil de planification financière « HHR Financial Plan » rend le processus de planification très pratique et facile à réaliser. De nombreux calculs sont effectués automatiquement et reportés aux mois et années suivants. Aucune « double saisie » n'est nécessaire. L'outil de planification financière « HHR Financial Plan » vous permet d'élaborer un plan financier de grande qualité en très peu de temps.",
+"A prima vista, la panoramica finanziaria può sembrare complessa. Tuttavia, si orienterà rapidamente. Scoprirà presto che con lo strumento di pianificazione finanziaria “HHR Financial Plan” il processo di pianificazione è molto comodo e facile da gestire. Molti calcoli vengono effettuati automaticamente e riportati nei mesi e negli anni successivi. Non sono necessarie “doppie registrazioni”. Con lo strumento di pianificazione finanziaria “HHR Financial Plan” è possibile creare un piano finanziario di alta qualità in poco tempo.",
+"A primera vista, el resumen financiero parece extenso. Sin embargo, se familiarizará rápidamente con él. Incluso descubrirá rápidamente que con la herramienta de planificación financiera «HHR Financial Plan», el proceso de planificación es muy cómodo y fácil de llevar a cabo. Muchos datos se calculan automáticamente y se transfieren a los meses y años siguientes. No es necesario realizar «entradas duplicadas». Con la herramienta de planificación financiera «HHR Financial Plan» podrá elaborar su plan financiero con una gran calidad y en muy poco tiempo.",
+"À primeira vista, a visão geral financeira parece extensa. No entanto, rapidamente se familiarizará com ela. Até descobrirá que, com a ferramenta de planeamento financeiro «HHR Financial Plan», o processo de planeamento é muito confortável e fácil de realizar. Muito é calculado automaticamente e transferido para os meses e anos seguintes. Não são necessárias «entradas duplicadas». Com a ferramenta de planeamento financeiro «HHR Financial Plan», pode criar o seu plano financeiro com alta qualidade e em pouco tempo.",
+"İlk bakışta finansal özet kapsamlı görünebilir. Ancak kısa sürede alışacaksınız. HHR Financial Plan finansal planlama aracıyla planlama sürecinin çok rahat ve kolay olduğunu hemen fark edeceksiniz. Birçok şey otomatik olarak hesaplanır ve sonraki aylere ve yıllara aktarılır. “Çift giriş” yapmanız gerekmez. “HHR Financial Plan” finansal planlama aracıyla, çok az zaman harcayarak yüksek kaliteli bir finansal plan oluşturabilirsiniz.",
+"Na pierwszy rzut oka przegląd finansowy wydaje się obszerny. Szybko jednak zorientujesz się, jak w nim poruszać. Przekonasz się nawet, że dzięki narzędziu do planowania finansowego „HHR Financial Plan” proces planowania jest bardzo wygodny i łatwy do wykonania. Wiele danych jest obliczanych automatycznie i przenoszonych na kolejne miesiące i lata. Nie ma potrzeby dokonywania „podwójnych wpisów”. Dzięki narzędziu do planowania finansowego „HHR Financial Plan” można w bardzo przejrzysty sposób i w krótkim czasie stworzyć wysokiej jakości plan finansowy.",
+"Pada awalnya, ikhtisar keuangan tampak rumit. Namun, Anda akan segera mengerti. Anda bahkan akan segera menyadari bahwa dengan alat perencanaan keuangan “HHR Financial Plan”, proses perencanaan menjadi sangat mudah dan sederhana. Banyak hal dihitung secara otomatis dan diterapkan pada bulan-bulan dan tahun-tahun berikutnya. Tidak diperlukan “entri ganda”. Dengan alat perencanaan keuangan “HHR Financial Plan”, Anda dapat membuat rencana keuangan berkualitas tinggi dengan waktu yang sangat singkat.",
+"На перший погляд фінансовий огляд здається об'ємним. Але ви швидко в ньому зорієнтуєтеся. Ви навіть швидко зрозумієте, що з інструментом фінансового планування «HHR Financial Plan» процес планування є дуже зручним і простим. Багато що розраховується автоматично і переноситься на наступні місяці та роки. Не потрібно робити «подвійні записи». За допомогою інструменту фінансового планування «HHR Financial Plan» ви можете створити високоякісний фінансовий план за дуже короткий час.",
+"À primeira vista, a visão geral financeira parece extensa. No entanto, você se familiarizará rapidamente. Você perceberá rapidamente que, com a ferramenta de planejamento financeiro “HHR Financial Plan”, o processo de planejamento é muito confortável e fácil de realizar. Muito é calculado automaticamente e transferido para os meses e anos seguintes. Não são necessárias “entradas duplicadas”. Com a ferramenta de planejamento financeiro “HHR Financial Plan”, você pode criar seu plano financeiro com alta qualidade e em pouco tempo."
+]
+},
+{
+"art": "h",
+"t": [
+"So gehen Sie vor",
+"How to proceed",
+"Comment procéder",
+"Come procedere",
+"Cómo proceder",
+"Como proceder",
+"Nasıl ilerlenir",
+"Jak postępować",
+"Cara menggunakan",
+"Як діяти",
+"Como proceder"
+]
+},
+{
+"art": "p",
+"t": [
+"1. Legen Sie unter „Meine Pläne“ einen neuen Plan an und geben Sie die Grunddaten ein: Name, Start, Laufzeit, Rechtsform, Umsatzsteuer und Währung.",
+"1. Under “My plans”, create a new plan and enter the basic data: name, start, term, legal form, VAT and currency.",
+"1. Sous « Mes plans », créez un nouveau plan et saisissez les données de base : nom, début, durée, forme juridique, TVA et devise.",
+"1. In “I miei piani” crea un nuovo piano e inserisci i dati di base: nome, inizio, durata, forma giuridica, IVA e valuta.",
+"1. En «Mis planes», cree un plan nuevo e introduzca los datos básicos: nombre, inicio, duración, forma jurídica, IVA y moneda.",
+"1. Em «Os meus planos», crie um novo plano e introduza os dados básicos: nome, início, duração, forma jurídica, IVA e moeda.",
+"1. “Planlarım” altında yeni bir plan oluşturun ve temel verileri girin: ad, başlangıç, süre, hukuki yapı, KDV ve para birimi.",
+"1. W „Moje plany” proszę utworzyć nowy plan i wprowadzić dane podstawowe: nazwę, początek, okres, formę prawną, VAT i walutę.",
+"1. Di “Rencana saya”, buat rencana baru dan masukkan data dasar: nama, mulai, jangka waktu, bentuk badan hukum, PPN, dan mata uang.",
+"1. У розділі «Мої плани» створіть новий план і введіть основні дані: назву, початок, термін, організаційно-правову форму, ПДВ і валюту.",
+"1. Em “Meus planos”, crie um novo plano e informe os dados básicos: nome, início, prazo, forma jurídica, impostos e moeda."
+]
+},
+{
+"art": "p",
+"t": [
+"2. Füllen Sie unter „Eingaben“ die Bereiche der Reihe nach aus: Erlöse, Wareneinsatz, betriebliche Kosten, Personal, Investitionen, Finanzierung und, falls nötig, persönliche Kosten. Ein eingegebener Wert gilt ab dem gewählten Monat bis zum Ende des Plans.",
+"2. Under “Inputs”, fill in the sections in order: revenues, cost of sales, operating costs, staff, investments, financing and, if needed, personal costs. A value you enter applies from the selected month to the end of the plan.",
+"2. Sous « Saisies », remplissez les rubriques dans l'ordre : recettes, coût des marchandises, frais d'exploitation, personnel, investissements, financement et, si nécessaire, frais personnels. Une valeur saisie s'applique du mois choisi jusqu'à la fin du plan.",
+"2. In “Dati” compila le sezioni in ordine: ricavi, costo dei beni, costi di gestione, personale, investimenti, finanziamento e, se necessario, costi personali. Un valore inserito vale dal mese scelto fino alla fine del piano.",
+"2. En «Datos», rellena las secciones por orden: ingresos, coste de mercancías, gastos de explotación, personal, inversiones, financiación y, si es necesario, costes personales. Un valor introducido se aplica desde el mes elegido hasta el final del plan.",
+"2. Em «Dados», preencha as secções por ordem: receitas, custo das mercadorias, custos de exploração, pessoal, investimentos, financiamento e, se necessário, custos pessoais. Um valor introduzido aplica-se do mês escolhido até ao fim do plano.",
+"2. “Girdiler” altında bölümleri sırayla doldurun: gelirler, satış maliyeti, işletme giderleri, personel, yatırımlar, finansman ve gerekirse kişisel masraflar. Girilen bir değer, seçilen aydan planın sonuna kadar geçerlidir.",
+"2. W „Dane” wypełnij kolejno sekcje: przychody, koszt towarów, koszty operacyjne, personel, inwestycje, finansowanie i w razie potrzeby koszty osobiste. Wprowadzona wartość obowiązuje od wybranego miesiąca do końca planu.",
+"2. Di “Input”, isi bagian-bagian secara berurutan: pendapatan, harga pokok, biaya operasional, personalia, investasi, pembiayaan, dan bila perlu biaya pribadi. Nilai yang dimasukkan berlaku dari bulan yang dipilih hingga akhir rencana.",
+"2. У розділі «Введення» заповніть розділи по черзі: доходи, собівартість, операційні витрати, персонал, інвестиції, фінансування та за потреби особисті витрати. Введене значення діє з вибраного місяця до кінця плану.",
+"2. Em “Dados”, preencha as seções na ordem: receitas, custo das mercadorias, custos operacionais, pessoal, investimentos, financiamento e, se necessário, custos pessoais. Um valor informado vale do mês escolhido até o fim do plano."
+]
+},
+{
+"art": "p",
+"t": [
+"3. Unter „Auswertung“ sehen Sie sofort Kontostand, Gewinn- und Verlustrechnung und Liquiditätsplan. Wird der Kontostand negativ, planen Sie mehr Eigenmittel oder ein Darlehen ein.",
+"3. Under “Analysis” you immediately see the account balance, the profit and loss statement and the liquidity plan. If the balance turns negative, plan more equity or a loan.",
+"3. Sous « Analyse », vous voyez immédiatement le solde du compte, le compte de résultat et le plan de trésorerie. Si le solde devient négatif, prévoyez davantage de fonds propres ou un prêt.",
+"3. In “Analisi” vedi subito il saldo del conto, il conto economico e il piano di liquidità. Se il saldo diventa negativo, prevedi più fondi propri o un prestito.",
+"3. En «Análisis» ves al instante el saldo de la cuenta, la cuenta de resultados y el plan de liquidez. Si el saldo pasa a ser negativo, prevé más fondos propios o un préstamo.",
+"3. Em «Análise» vê de imediato o saldo da conta, a demonstração de resultados e o plano de liquidez. Se o saldo ficar negativo, preveja mais fundos próprios ou um empréstimo.",
+"3. “Değerlendirme” altında hesap bakiyesini, gelir tablosunu ve likidite planını hemen görürsünüz. Bakiye negatife düşerse daha fazla özkaynak veya kredi planlayın.",
+"3. W „Analiza” od razu widać saldo konta, rachunek zysków i strat oraz plan płynności. Jeśli saldo staje się ujemne, należy zaplanować więcej środków własnych lub kredyt.",
+"3. Di “Analisis” Anda langsung melihat saldo rekening, laporan laba rugi, dan rencana likuiditas. Jika saldo menjadi negatif, rencanakan dana sendiri yang lebih besar atau pinjaman.",
+"3. У розділі «Аналіз» ви одразу бачите залишок на рахунку, звіт про прибутки та збитки і план ліквідності. Якщо залишок стає від'ємним, заплануйте більше власних коштів або кредит.",
+"3. Em “Análise” você vê na hora o saldo da conta, a demonstração de resultados e o plano de liquidez. Se o saldo ficar negativo, planeje mais recursos próprios ou um empréstimo."
+]
+},
+{
+"art": "p",
+"t": [
+"4. Unter „Export“ erstellen Sie ein PDF für Ihre Bank oder Förderstelle.",
+"4. Under “Export” you create a PDF for your bank or funding body.",
+"4. Sous « Exportation », créez un PDF pour votre banque ou votre organisme de financement.",
+"4. In “Esportazione” crea un PDF per la Sua banca o l'ente finanziatore.",
+"4. En «Exportar» cree un PDF para su banco o entidad de financiación.",
+"4. Em «Exportação» cria um PDF para o seu banco ou entidade financiadora.",
+"4. “Dışa aktar” altında bankanız veya destek kuruluşunuz için bir PDF oluşturursunuz.",
+"4. W „Eksport” utworzysz PDF dla banku lub instytucji wspierającej.",
+"4. Di “Ekspor” Anda membuat PDF untuk bank atau lembaga pendanaan.",
+"4. У розділі «Експорт» ви створюєте PDF для банку або фонду підтримки.",
+"4. Em “Exportação” você cria um PDF para o seu banco ou agência de fomento."
+]
+},
+{
+"art": "p",
+"t": [
+"Zu vielen Begriffen und Eingaben gibt es Erläuterungen. Tippen Sie dazu auf das Symbol ⓘ.",
+"Many terms and inputs come with explanations. Tap the ⓘ symbol to read them.",
+"De nombreux termes et saisies sont expliqués. Touchez le symbole ⓘ pour les lire.",
+"Molti termini e dati hanno una spiegazione. Tocchi il simbolo ⓘ per leggerla.",
+"Muchos términos y datos tienen una explicación. Toque el símbolo ⓘ para leerla.",
+"Muitos termos e dados têm uma explicação. Toque no símbolo ⓘ para a ler.",
+"Birçok terim ve girdi için açıklama vardır. Okumak için ⓘ simgesine dokunun.",
+"Wiele pojęć i pól ma objaśnienia. Dotknięcie symbolu ⓘ wyświetla objaśnienie.",
+"Banyak istilah dan input dilengkapi penjelasan. Ketuk simbol ⓘ untuk membacanya.",
+"Багато термінів і полів мають пояснення. Торкніться символу ⓘ, щоб прочитати їх.",
+"Muitos termos e dados têm uma explicação. Toque no símbolo ⓘ para lê-la."
+]
+},
+{
+"art": "p",
+"t": [
+"Grundsätzlich sind die Eingaben netto (also ohne die Umsatzsteuer) einzugeben. Zu Ihrer Erleichterung finden Sie einen kleinen Brutto/Netto-Rechner ganz oben links im Tabellenblatt \"Finanzplanung\".",
+"As a rule, entries should be made net (i.e., excluding sales tax). For your convenience, you will find a small gross/net calculator at the top left of the “Financial planning” worksheet.",
+"En principe, les données doivent être saisies nettes (c'est-à-dire hors TVA). Pour vous faciliter la tâche, vous trouverez un petit calculateur brut/net en haut à gauche de la feuille de calcul « Planification financière ».",
+"In linea di principio, i dati devono essere inseriti al netto (cioè senza l'imposta sul valore aggiunto). Per Sua comodità, troverà un piccolo calcolatore lordo/netto in alto a sinistra nel foglio di calcolo “Pianificazione finanziaria”.",
+"Por regla general, los datos deben introducirse en términos netos (es decir, sin el impuesto sobre el valor añadido). Para facilitarle la tarea, encontrará una pequeña calculadora bruto/neto en la parte superior izquierda de la hoja de cálculo «Planificación financiera».",
+"Basicamente, os valores devem ser introduzidos líquidos (ou seja, sem o imposto sobre o valor acrescentado). Para facilitar, encontrará uma pequena calculadora bruto/líquido no canto superior esquerdo da folha de cálculo «Planeamento financeiro».",
+"Girişler temel olarak net (yani KDV hariç) olarak yapılmalıdır. İşinizi kolaylaştırmak için, “Finansal planlama” tablosunun sol üst köşesinde küçük bir brüt/net hesaplayıcı bulabilirsiniz.",
+"Zasadniczo należy wprowadzać wartości netto (tj. bez podatku VAT). Aby ułatwić zadanie, w lewym górnym rogu arkusza „Planowanie finansowe” znajduje się mały kalkulator brutto/netto.",
+"Secara umum, input harus dimasukkan dalam bentuk bersih (tanpa pajak penjualan). Untuk memudahkan Anda, terdapat kalkulator bruto/bersih kecil di pojok kiri atas lembar kerja “Perencanaan Keuangan”.",
+"В принципі, дані слід вводити в нетто (тобто без податку на додану вартість). Для вашої зручності у верхньому лівому куті таблиці «Фінансове планування» є невеликий калькулятор брутто/нетто.",
+"Basicamente, os dados devem ser inseridos líquidos (ou seja, sem o imposto sobre o valor agregado). Para facilitar, você encontrará uma pequena calculadora bruta/líquida no canto superior esquerdo da planilha “Planejamento financeiro”."
+]
+},
+{
+"art": "p",
+"t": [
+"Sind Sie jedoch von der Umsatzsteuer befreit (sogenannte Kleinunternehmer-Regelung) dann geben Sie die Werte brutto ein.",
+"However, if you are exempt from sales tax (so-called small business regulation), enter the values gross.",
+"Si vous êtes toutefois exonéré de TVA (régime des petites entreprises), saisissez les valeurs brutes.",
+"Se è esente dall'imposta sul valore aggiunto (cosiddetta normativa per le piccole imprese), inserisca i valori al lordo.",
+"Sin embargo, si está exento del impuesto sobre el valor añadido (la denominada «regulación para pequeñas empresas»), introduzca los valores brutos.",
+"No entanto, se estiver isento do imposto sobre o valor acrescentado (a chamada regulamentação para pequenas empresas), introduza os valores brutos.",
+"Ancak, KDV'den muafsanız (sözde küçük işletme düzenlemesi), değerleri brüt olarak girin.",
+"Jeśli jednak są Państwo zwolnieni z podatku VAT (tzw. regulacja dotycząca małych przedsiębiorców), należy wprowadzić wartości brutto.",
+"Jika Anda bebas dari pajak penjualan (aturan untuk usaha kecil), masukkan nilai dalam bentuk bruto.",
+"Однак, якщо ви звільнені від податку на додану вартість (так зване правило для малих підприємців), введіть значення брутто.",
+"No entanto, se você estiver isento do imposto sobre o valor agregado (a chamada regra para pequenas empresas), insira os valores brutos."
+]
+},
+{
+"art": "p",
+"t": [
+"Auch wenn diese Rechnung relativ genau ist, ersetzt sie doch keine exakte Steuerberechnung. Konsultieren Sie bitte unbedingt Ihren Steuerberater.",
+"Even though this calculation is relatively accurate, it does not replace an exact tax calculation. Please consult your tax advisor.",
+"Même si ce calcul est relativement précis, il ne remplace pas un calcul fiscal exact. Veuillez consulter votre conseiller fiscal.",
+"Anche se questo calcolo è relativamente preciso, non sostituisce un calcolo fiscale esatto. Si prega di consultare il proprio commercialista.",
+"Aunque este cálculo es relativamente preciso, no sustituye a un cálculo fiscal exacto. Consulte a su asesor fiscal.",
+"Embora este cálculo seja relativamente preciso, não substitui um cálculo fiscal exato. Consulte sempre o seu consultor fiscal.",
+"Bu hesaplama nispeten doğru olsa da, kesin bir vergi hesaplamasının yerini almaz. Lütfen mutlaka vergi danışmanınıza danışın.",
+"Nawet jeśli obliczenia te są stosunkowo dokładne, nie zastępują one dokładnego rozliczenia podatkowego. Prosimy o konsultację z doradcą podatkowym.",
+"Meskipun perhitungan ini relatif akurat, namun tidak dapat menggantikan perhitungan pajak yang tepat. Silakan berkonsultasi dengan konsultan pajak Anda.",
+"Хоча цей розрахунок є відносно точним, він не замінює точного розрахунку податку. Обов'язково проконсультуйтеся зі своїм податковим консультантом.",
+"Embora este cálculo seja relativamente preciso, não substitui um cálculo fiscal exato. Consulte sempre o seu consultor fiscal."
+]
+},
+{
+"art": "p",
+"t": [
+"Sollten Sie dabei eine Beratung wünschen, dann kann Ihnen in Deutschland z. B. ein Berater von den Wirtschafts-Senioren bei der Befüllung zur Seite stehen. Hier finden Sie den für Ihre Region zuständigen Verein: https://wirtschaftssenioren.net",
+"If you would like advice, you can contact a consultant from the Wirtschafts-Senioren (Business Seniors) in Germany, for example, who will assist you in completing the form. You can find the association responsible for your region here: https://wirtschaftssenioren.net",
+"Si vous souhaitez bénéficier de conseils, vous pouvez par exemple faire appel à un conseiller des Wirtschafts-Senioren (seniors de l'économie) en Allemagne pour vous aider à remplir le formulaire. Vous trouverez ici l'association compétente pour votre région : https://wirtschaftssenioren.net",
+"Se desidera una consulenza, in Germania può rivolgersi ad esempio a un consulente dell'associazione Wirtschafts-Senioren, che La aiuterà nella compilazione. Qui trova l'associazione competente per la Sua regione: https://wirtschaftssenioren.net",
+"Si desea asesoramiento, en Alemania puede solicitar la ayuda de un asesor de Wirtschafts-Senioren (seniores económicos) para completar el formulario. Aquí encontrará la asociación correspondiente a su región: https://wirtschaftssenioren.net",
+"Se precisar de aconselhamento, pode recorrer, por exemplo, a um consultor da Wirtschafts-Senioren (Associação de Empresários Seniores) na Alemanha, que o ajudará a preencher o formulário. Encontre aqui a associação responsável pela sua região: https://wirtschaftssenioren.net",
+"Danışmanlık hizmeti almak isterseniz, Almanya'da örneğin Wirtschafts-Senioren (Eski İş Adamları) danışmanları doldurma konusunda size yardımcı olabilir. Bölgenizdeki derneği burada bulabilirsiniz: https://wirtschaftssenioren.net",
+"Jeśli potrzebują Państwo pomocy, w Niemczech mogą Państwo skorzystać z pomocy doradcy z organizacji Wirtschafts-Senioren, który pomoże Państwu wypełnić formularz. Tutaj znajdą Państwo stowarzyszenie właściwe dla swojego regionu: https://wirtschaftssenioren.net",
+"Jika Anda memerlukan konsultasi, Anda dapat meminta bantuan konsultan dari Wirtschafts-Senioren di Jerman untuk mengisi formulir ini. Di sini Anda dapat menemukan asosiasi yang bertanggung jawab untuk wilayah Anda: https://wirtschaftssenioren.net",
+"Якщо вам потрібна консультація, то в Німеччині вам може допомогти, наприклад, консультант з організації Wirtschafts-Senioren. Тут ви знайдете асоціацію, відповідальну за ваш регіон: https://wirtschaftssenioren.net",
+"Se precisar de ajuda, na Alemanha você pode contar com o apoio de um consultor da Wirtschafts-Senioren (Associação de Executivos Seniores) para preencher o formulário. Aqui você encontra a associação responsável pela sua região: https://wirtschaftssenioren.net"
+]
+},
+{
+"art": "p",
+"t": [
+"Ihre Pläne werden nur auf diesem Gerät gespeichert und nicht übertragen.",
+"Your plans are stored only on this device and are not transmitted.",
+"Vos plans sont enregistrés uniquement sur cet appareil et ne sont pas transmis.",
+"I Suoi piani sono salvati solo su questo dispositivo e non vengono trasmessi.",
+"Sus planes se guardan solo en este dispositivo y no se transmiten.",
+"Os seus planos são guardados apenas neste dispositivo e não são transmitidos.",
+"Planlarınız yalnızca bu cihazda saklanır ve aktarılmaz.",
+"Plany są zapisywane tylko na tym urządzeniu i nie są przesyłane.",
+"Rencana Anda hanya disimpan di perangkat ini dan tidak dikirim.",
+"Ваші плани зберігаються лише на цьому пристрої і нікуди не передаються.",
+"Seus planos são salvos somente neste dispositivo e não são transmitidos."
+]
+},
+{
+"art": "p",
+"t": [
+"Bei Fragen wenden Sie sich gerne an uns (Siehe auch „Kontaktformular“ auf unserer Webseite www.start-up-assist.com“) .",
+"If you have any questions, please do not hesitate to contact us (see also the “Contact Form” on our website www.start-up-assist.com).",
+"Si vous avez des questions, n'hésitez pas à nous contacter (voir également « Formulaire de contact » sur notre site web www.start-up-assist.com).",
+"In caso di domande, non esitate a contattarci (vedere anche il “Modulo di contatto” sul nostro sito web www.start-up-assist.com“).",
+"Si tiene alguna pregunta, no dude en ponerse en contacto con nosotros (véase también el «Formulario de contacto» en nuestra página web www.start-up-assist.com).",
+"Em caso de dúvidas, entre em contacto connosco (ver também «Formulário de contacto» no nosso site www.start-up-assist.com»).",
+"Sorularınız için lütfen bize başvurun (web sitemiz www.start-up-assist.com'deki “İletişim formu”na da bakın).",
+"W razie pytań prosimy o kontakt (patrz również „Formularz kontaktowy” na naszej stronie internetowej www.start-up-assist.com”).",
+"Jika ada pertanyaan, silakan hubungi kami (lihat juga “Formulir Kontak” di situs web kami www.start-up-assist.com“).",
+"Якщо у вас є питання, звертайтеся до нас (див. також «Контактну форму» на нашому веб-сайті www.start-up-assist.com»).",
+"Em caso de dúvidas, entre em contato conosco (consulte também o “Formulário de contato” em nosso site www.start-up-assist.com”)."
+]
+},
+{
+"art": "p",
+"t": [
+"Und nun viel Erfolg bei der Planung und Ihrem Vorhaben mit dem Finanzplanungstool „HHR Financial Plan“!",
+"And now we wish you every success with your planning and your projects using the “HHR Financial Plan” financial planning tool!",
+"Nous vous souhaitons beaucoup de succès dans la planification et la réalisation de vos projets avec l'outil de planification financière « HHR Financial Plan » !",
+"E ora Le auguriamo buon lavoro con la pianificazione e i Suoi progetti con lo strumento di pianificazione finanziaria ”HHR Financial Plan\"!",
+"¡Le deseamos mucho éxito en la planificación y en sus proyectos con la herramienta de planificación financiera «HHR Financial Plan»!",
+"E agora, boa sorte com o planeamento e os seus projetos com a ferramenta de planeamento financeiro «HHR Financial Plan»!",
+"Ve şimdi, “HHR Financial Plan” finansal planlama aracıyla planlamanızda ve projenizde başarılar dileriz!",
+"Życzymy powodzenia w planowaniu i realizacji przedsięwzięć z narzędziem do planowania finansowego „HHR Financial Plan”!",
+"Dan sekarang, semoga sukses dalam perencanaan dan proyek Anda dengan alat perencanaan keuangan ”HHR Financial Plan\"!",
+"Бажаємо вам успіхів у плануванні та реалізації ваших проектів за допомогою інструменту фінансового планування «HHR Financial Plan»!",
+"Desejamos muito sucesso no planejamento e em seus projetos com a ferramenta de planejamento financeiro “HHR Financial Plan”!"
+]
+},
+{
+"art": "p",
+"t": [
+"Ihre Finanzplanungsexperten",
+"Your financial planning experts",
+"Vos experts en planification financière",
+"I Suoi esperti di pianificazione finanziaria",
+"Sus expertos en planificación financiera",
+"Os seus especialistas em planeamento financeiro",
+"Finansal planlama uzmanlarınız",
+"Państwa eksperci ds. planowania finansowego",
+"Ahli perencanaan keuangan Anda",
+"Ваші експерти з фінансового планування",
+"Seus especialistas em planejamento financeiro"
+]
+},
+{
+"art": "p",
+"t": [
+"Reinhard Hahn & Holger Gasau",
+"Reinhard Hahn & Holger Gasau",
+"Reinhard Hahn & Holger Gasau",
+"Reinhard Hahn & Holger Gasau",
+"Reinhard Hahn y Holger Gasau",
+"Reinhard Hahn & Holger Gasau",
+"Reinhard Hahn & Holger Gasau",
+"Reinhard Hahn & Holger Gasau",
+"Reinhard Hahn & Holger Gasau",
+"Райнхард Хан і Хольгер Газау",
+"Reinhard Hahn & Holger Gasau"
+]
+},
+{
+"art": "p",
+"t": [
+"Start-up-Assist HHR UG (haftungsbeschränkt), Hamburg / Deutschland",
+"Start-up-Assist HHR UG (limited liability), Hamburg / Germany",
+"Start-up-Assist HHR UG (à responsabilité limitée), Hambourg / Allemagne",
+"Start-up-Assist HHR UG (a responsabilità limitata), Amburgo / Germania",
+"Start-up-Assist HHR UG (responsabilidad limitada), Hamburgo / Alemania",
+"Start-up-Assist HHR UG (responsabilidade limitada), Hamburgo / Alemanha",
+"Start-up-Assist HHR UG (sınırlı sorumluluklu), Hamburg / Almanya",
+"Start-up-Assist HHR UG (z ograniczoną odpowiedzialnością), Hamburg / Niemcy",
+"Start-up-Assist HHR UG (bertanggung jawab terbatas), Hamburg / Jerman",
+"Start-up-Assist HHR UG (з обмеженою відповідальністю), Гамбург / Німеччина",
+"Start-up-Assist HHR UG (responsabilidade limitada), Hamburgo / Alemanha"
+]
+}
+],
+"bedingungen": [
+{
+"art": "h",
+"t": [
+"Nutzungsbedingungen für die App „HHR FinancialPlan“",
+"Terms of use for the app “HHR FinancialPlan”",
+"Conditions d'utilisation de l'application « HHR FinancialPlan »",
+"Condizioni d'uso dell'app “HHR FinancialPlan”",
+"Condiciones de uso de la app «HHR FinancialPlan»",
+"Condições de utilização da app «HHR FinancialPlan»",
+"“HHR FinancialPlan” uygulaması kullanım koşulları",
+"Warunki korzystania z aplikacji „HHR FinancialPlan”",
+"Ketentuan penggunaan aplikasi “HHR FinancialPlan”",
+"Умови використання застосунку «HHR FinancialPlan»",
+"Termos de uso do app “HHR FinancialPlan”"
+]
+},
+{
+"art": "h",
+"t": [
+"1. Lizensierung:",
+"1. Licensing:",
+"1. Licence :",
+"1. Licenza:",
+"1. Licencia:",
+"1. Licenciamento:",
+"1. Lisans:",
+"1. Licencja:",
+"1. Lisensi:",
+"1. Ліцензування:",
+"1. Licenciamento:"
+]
+},
+{
+"art": "p",
+"t": [
+"Mit dem Herunterladen dieser App erhalten Sie eine nicht-exklusive, nicht übertragbare Lizenz zur Nutzung der App für persönliche oder geschäftliche Zwecke.",
+"By downloading this app, you receive a non-exclusive, non-transferable license to use the app for personal or business purposes.",
+"En téléchargeant cette application, vous obtenez une licence non exclusive et non transférable d'utilisation de l'application à des fins personnelles ou professionnelles.",
+"Scaricando questa app ricevi una licenza non esclusiva e non trasferibile per l'uso dell'app a scopi personali o professionali.",
+"Al descargar esta app recibes una licencia no exclusiva e intransferible para usar la app con fines personales o comerciales.",
+"Ao descarregar esta app, recebe uma licença não exclusiva e intransmissível para utilizar a app para fins pessoais ou profissionais.",
+"Bu uygulamayı indirerek, uygulamayı kişisel veya ticari amaçlarla kullanmak için münhasır olmayan, devredilemez bir lisans alırsınız.",
+"Pobierając tę aplikację, otrzymujesz niewyłączną, nieprzenoszalną licencję na korzystanie z aplikacji do celów osobistych lub biznesowych.",
+"Dengan mengunduh aplikasi ini, Anda menerima lisensi non-eksklusif dan tidak dapat dialihkan untuk menggunakan aplikasi untuk keperluan pribadi atau bisnis.",
+"Завантажуючи цей застосунок, ви отримуєте невиключну ліцензію без права передачі на використання застосунку в особистих або комерційних цілях.",
+"Ao baixar este app, você recebe uma licença não exclusiva e intransferível para usar o app para fins pessoais ou comerciais."
+]
+},
+{
+"art": "h",
+"t": [
+"2. Eigentumsrecht:",
+"2. Ownership:",
+"2. Droit de propriété :",
+"2. Diritto di proprietà:",
+"2. Derecho de propiedad:",
+"2. Direitos de propriedade:",
+"2. Mülkiyet hakkı:",
+"2. Prawa własności:",
+"2. Hak Milik:",
+"2. Право власності:",
+"2. Direito de propriedade:"
+]
+},
+{
+"art": "p",
+"t": [
+"Die Start-up-Assist HHR UG (haftungsbeschränkt), nachfolgend als Anbieter bezeichnet, behält das Eigentumsrecht an der App. Sie dürfen die App nicht reproduzieren, weiterverkaufen, verteilen oder anderweitig verwenden, außer wie in diesen Nutzungsbedingungen vorgesehen.",
+"Start-up-Assist HHR UG (haftungsbeschränkt), hereinafter referred to as the provider, retains ownership of the app. You may not reproduce, resell, distribute or otherwise use the app except as provided in these terms of use.",
+"Start-up-Assist HHR UG (haftungsbeschränkt), ci-après dénommée le fournisseur, conserve la propriété de l'application. Vous ne pouvez pas reproduire, revendre, distribuer ou utiliser autrement l'application, sauf dans les conditions prévues par les présentes conditions d'utilisation.",
+"Start-up-Assist HHR UG (haftungsbeschränkt), di seguito denominata il fornitore, mantiene la proprietà dell'app. Non è consentito riprodurre, rivendere, distribuire o utilizzare in altro modo l'app, salvo quanto previsto dalle presenti condizioni d'uso.",
+"Start-up-Assist HHR UG (haftungsbeschränkt), en adelante el proveedor, conserva la propiedad de la app. No puede reproducir, revender, distribuir ni utilizar de otro modo la app, salvo lo previsto en estas condiciones de uso.",
+"A Start-up-Assist HHR UG (haftungsbeschränkt), doravante designada fornecedor, mantém a propriedade da app. Não pode reproduzir, revender, distribuir ou utilizar de outra forma a app, exceto nos termos previstos nestas condições de utilização.",
+"Bundan sonra sağlayıcı olarak anılacak olan Start-up-Assist HHR UG (haftungsbeschränkt), uygulamanın mülkiyetini elinde tutar. Uygulamayı bu kullanım koşullarında öngörülen durumlar dışında çoğaltamaz, yeniden satamaz, dağıtamaz veya başka şekilde kullanamazsınız.",
+"Start-up-Assist HHR UG (haftungsbeschränkt), zwana dalej dostawcą, zachowuje prawo własności do aplikacji. Nie wolno powielać, odsprzedawać, rozpowszechniać ani w inny sposób wykorzystywać aplikacji, z wyjątkiem przypadków przewidzianych w niniejszych warunkach.",
+"Start-up-Assist HHR UG (haftungsbeschränkt), selanjutnya disebut penyedia, tetap memegang hak milik atas aplikasi. Anda tidak boleh memperbanyak, menjual kembali, mendistribusikan, atau menggunakan aplikasi dengan cara lain, kecuali sebagaimana diatur dalam ketentuan penggunaan ini.",
+"Start-up-Assist HHR UG (haftungsbeschränkt), далі — постачальник, зберігає право власності на застосунок. Ви не маєте права відтворювати, перепродавати, поширювати або іншим чином використовувати застосунок, окрім випадків, передбачених цими умовами.",
+"A Start-up-Assist HHR UG (haftungsbeschränkt), doravante denominada fornecedora, mantém a propriedade do app. Você não pode reproduzir, revender, distribuir ou usar o app de outra forma, exceto conforme previsto nestes termos de uso."
+]
+},
+{
+"art": "h",
+"t": [
+"3. Nutzungseinschränkungen:",
+"3. Restrictions on use:",
+"3. Restrictions d'utilisation :",
+"3. Limitazioni d'uso:",
+"3. Restricciones de uso:",
+"3. Restrições de utilização:",
+"3. Kullanım kısıtlamaları:",
+"3. Ograniczenia użytkowania:",
+"3. Pembatasan Penggunaan:",
+"3. Обмеження використання:",
+"3. Restrições de uso:"
+]
+},
+{
+"art": "p",
+"t": [
+"Die App darf nicht für illegale, betrügerische oder unethische Zwecke verwendet werden. Sie dürfen die App nicht verändern und kein „Reverse Engineering“ vornehmen, um den Verkauf oder die Weitergabe als Ihr eigenes Produkt zu ermöglichen.",
+"The app may not be used for illegal, fraudulent or unethical purposes. You may not modify the app or reverse engineer it to enable its sale or distribution as your own product.",
+"L'application ne doit pas être utilisée à des fins illégales, frauduleuses ou contraires à l'éthique. Vous ne pouvez pas modifier l'application ni procéder à de la rétro-ingénierie pour permettre sa vente ou sa diffusion comme votre propre produit.",
+"L'app non può essere utilizzata per scopi illegali, fraudolenti o non etici. Non è consentito modificare l'app né effettuare reverse engineering per consentirne la vendita o la distribuzione come prodotto proprio.",
+"La app no puede utilizarse con fines ilegales, fraudulentos o poco éticos. No puede modificar la app ni aplicar ingeniería inversa para venderla o distribuirla como producto propio.",
+"A app não pode ser utilizada para fins ilegais, fraudulentos ou antiéticos. Não pode modificar a app nem efetuar engenharia inversa para permitir a sua venda ou distribuição como produto próprio.",
+"Uygulama yasa dışı, hileli veya etik dışı amaçlarla kullanılamaz. Uygulamayı kendi ürününüz olarak satmak veya dağıtmak amacıyla değiştiremez veya tersine mühendislik uygulayamazsınız.",
+"Aplikacji nie wolno używać do celów nielegalnych, oszukańczych lub nieetycznych. Nie wolno modyfikować aplikacji ani stosować inżynierii wstecznej w celu jej sprzedaży lub rozpowszechniania jako własnego produktu.",
+"Aplikasi tidak boleh digunakan untuk tujuan ilegal, curang, atau tidak etis. Anda tidak boleh mengubah aplikasi atau melakukan rekayasa balik untuk menjual atau mendistribusikannya sebagai produk Anda sendiri.",
+"Застосунок не можна використовувати в незаконних, шахрайських або неетичних цілях. Ви не маєте права змінювати застосунок або здійснювати зворотну розробку з метою продажу чи поширення як власного продукту.",
+"O app não pode ser usado para fins ilegais, fraudulentos ou antiéticos. Você não pode modificar o app nem fazer engenharia reversa para vendê-lo ou distribuí-lo como produto próprio."
+]
+},
+{
+"art": "h",
+"t": [
+"4. Garantie und Haftungsausschluss:",
+"4. Warranty and disclaimer:",
+"4. Garantie et exclusion de responsabilité :",
+"4. Garanzia e esclusione di responsabilità:",
+"4. Garantía y exención de responsabilidad:",
+"4. Garantia e isenção de responsabilidade:",
+"4. Garanti ve sorumluluk reddi:",
+"4. Gwarancja i wyłączenie odpowiedzialności:",
+"4. Jaminan dan Penolakan Tanggung Jawab:",
+"4. Гарантія та відмова від відповідальності:",
+"4. Garantia e isenção de responsabilidade:"
+]
+},
+{
+"art": "p",
+"t": [
+"Der Anbieter gewährleistet nicht, dass die App fehlerfrei oder für einen bestimmten Zweck geeignet ist. Die Nutzung der App erfolgt auf eigenes Risiko. Die Berechnungen ersetzen keine Beratung durch Steuerberater oder Bank. Der Anbieter haftet nicht für direkte, indirekte oder Folgeschäden, die aus der Nutzung der App entstehen.",
+"The provider does not warrant that the app is error-free or suitable for a particular purpose. You use the app at your own risk. The calculations do not replace advice from a tax advisor or bank. The provider is not liable for any direct, indirect or consequential damages resulting from the use of the app.",
+"Le fournisseur ne garantit pas que l'application est exempte d'erreurs ou adaptée à un usage particulier. L'utilisation de l'application se fait à vos propres risques. Les calculs ne remplacent pas les conseils d'un expert-comptable ou d'une banque. Le fournisseur décline toute responsabilité pour les dommages directs, indirects ou consécutifs résultant de l'utilisation de l'application.",
+"Il fornitore non garantisce che l'app sia priva di errori o adatta a uno scopo specifico. L'uso dell'app avviene a proprio rischio. I calcoli non sostituiscono la consulenza di un commercialista o di una banca. Il fornitore non risponde di danni diretti, indiretti o consequenziali derivanti dall'uso dell'app.",
+"El proveedor no garantiza que la app esté libre de errores ni que sea adecuada para un fin concreto. El uso de la app es por su cuenta y riesgo. Los cálculos no sustituyen el asesoramiento de un asesor fiscal o de un banco. El proveedor no se hace responsable de daños directos, indirectos o consecuentes derivados del uso de la app.",
+"O fornecedor não garante que a app esteja isenta de erros ou seja adequada a um fim específico. A utilização da app é por sua conta e risco. Os cálculos não substituem o aconselhamento de um contabilista ou de um banco. O fornecedor não é responsável por danos diretos, indiretos ou consequentes resultantes da utilização da app.",
+"Sağlayıcı, uygulamanın hatasız olduğunu veya belirli bir amaca uygun olduğunu garanti etmez. Uygulamanın kullanımı kendi sorumluluğunuzdadır. Hesaplamalar bir mali müşavir veya bankanın danışmanlığının yerini tutmaz. Sağlayıcı, uygulamanın kullanımından doğan doğrudan, dolaylı veya sonuç olarak ortaya çıkan zararlardan sorumlu değildir.",
+"Dostawca nie gwarantuje, że aplikacja jest wolna od błędów lub nadaje się do określonego celu. Korzystasz z aplikacji na własne ryzyko. Obliczenia nie zastępują porady doradcy podatkowego ani banku. Dostawca nie ponosi odpowiedzialności za szkody bezpośrednie, pośrednie ani następcze wynikające z korzystania z aplikacji.",
+"Penyedia tidak menjamin bahwa aplikasi bebas dari kesalahan atau sesuai untuk tujuan tertentu. Penggunaan aplikasi menjadi risiko Anda sendiri. Perhitungan tidak menggantikan saran dari konsultan pajak atau bank. Penyedia tidak bertanggung jawab atas kerugian langsung, tidak langsung, atau konsekuensial yang timbul dari penggunaan aplikasi.",
+"Постачальник не гарантує, що застосунок не містить помилок або придатний для певної мети. Ви користуєтеся застосунком на власний ризик. Розрахунки не замінюють консультації податкового радника чи банку. Постачальник не несе відповідальності за прямі, непрямі чи опосередковані збитки, що виникли внаслідок використання застосунку.",
+"A fornecedora não garante que o app esteja livre de erros ou seja adequado a uma finalidade específica. O uso do app é por sua conta e risco. Os cálculos não substituem a orientação de um contador ou banco. A fornecedora não se responsabiliza por danos diretos, indiretos ou consequentes decorrentes do uso do app."
+]
+},
+{
+"art": "h",
+"t": [
+"5. Support und Aktualisierungen:",
+"5. Support and updates:",
+"5. Assistance et mises à jour :",
+"5. Assistenza e aggiornamenti:",
+"5. Asistencia técnica y actualizaciones:",
+"5. Suporte e atualizações:",
+"5. Destek ve güncellemeler:",
+"5. Pomoc techniczna i aktualizacje:",
+"5. Dukungan dan Pembaruan:",
+"5. Підтримка та оновлення:",
+"5. Suporte e atualizações:"
+]
+},
+{
+"art": "p",
+"t": [
+"Der Anbieter kann nach eigenem Ermessen Support oder Aktualisierungen für die App anbieten, ist dazu jedoch nicht verpflichtet.",
+"The provider may, at its sole discretion, offer support or updates for the app, but is not obliged to do so.",
+"Le fournisseur peut, à sa seule discrétion, proposer une assistance ou des mises à jour pour l'application, sans y être tenu.",
+"Il fornitore può, a sua discrezione, offrire supporto o aggiornamenti per l'app, ma non è obbligato a farlo.",
+"El proveedor puede, a su discreción, ofrecer soporte o actualizaciones para la app, pero no está obligado a ello.",
+"O fornecedor pode, a seu critério, oferecer suporte ou atualizações para a app, mas não é obrigado a fazê-lo.",
+"Sağlayıcı, kendi takdirine bağlı olarak uygulama için destek veya güncelleme sunabilir, ancak bunu yapmakla yükümlü değildir.",
+"Dostawca może według własnego uznania oferować wsparcie lub aktualizacje aplikacji, ale nie jest do tego zobowiązany.",
+"Penyedia dapat, atas kebijakannya sendiri, menawarkan dukungan atau pembaruan untuk aplikasi, tetapi tidak berkewajiban melakukannya.",
+"Постачальник може на власний розсуд надавати підтримку або оновлення застосунку, але не зобов'язаний це робити.",
+"A fornecedora pode, a seu critério, oferecer suporte ou atualizações para o app, mas não é obrigada a fazê-lo."
+]
+},
+{
+"art": "h",
+"t": [
+"6. Änderungen an den Nutzungsbedingungen:",
+"6. Changes to the terms of use:",
+"6. Modifications des conditions d'utilisation :",
+"6. Modifiche alle condizioni di utilizzo:",
+"6. Modificaciones de las condiciones de uso:",
+"6. Alterações nos termos de uso:",
+"6. Kullanım koşullarında değişiklikler:",
+"6. Zmiany warunków użytkowania:",
+"6. Perubahan pada Syarat dan Ketentuan Penggunaan:",
+"6. Зміни в умовах використання:",
+"6. Alterações nos termos de uso:"
+]
+},
+{
+"art": "p",
+"t": [
+"Der Anbieter behält sich das Recht vor, diese Nutzungsbedingungen jederzeit ohne vorherige Ankündigung zu ändern. Es liegt in Ihrer Verantwortung, die Nutzungsbedingungen regelmäßig zu überprüfen.",
+"The provider reserves the right to change these terms of use at any time without prior notice. It is your responsibility to review the terms of use regularly.",
+"Le fournisseur se réserve le droit de modifier les présentes conditions d'utilisation à tout moment et sans préavis. Il vous incombe de les consulter régulièrement.",
+"Il fornitore si riserva il diritto di modificare in qualsiasi momento e senza preavviso le presenti condizioni d'uso. È Sua responsabilità verificarle regolarmente.",
+"El proveedor se reserva el derecho de modificar estas condiciones de uso en cualquier momento y sin previo aviso. Es su responsabilidad revisarlas periódicamente.",
+"O fornecedor reserva-se o direito de alterar estas condições de utilização a qualquer momento e sem aviso prévio. É da sua responsabilidade consultá-las regularmente.",
+"Sağlayıcı, bu kullanım koşullarını önceden haber vermeksizin her zaman değiştirme hakkını saklı tutar. Kullanım koşullarını düzenli olarak gözden geçirmek sizin sorumluluğunuzdadır.",
+"Dostawca zastrzega sobie prawo do zmiany niniejszych warunków w dowolnym momencie bez uprzedzenia. Regularne sprawdzanie warunków należy do Ciebie.",
+"Penyedia berhak mengubah ketentuan penggunaan ini kapan saja tanpa pemberitahuan sebelumnya. Anda bertanggung jawab untuk meninjau ketentuan penggunaan secara berkala.",
+"Постачальник залишає за собою право будь-коли змінювати ці умови без попереднього повідомлення. Ви самі відповідаєте за регулярну перевірку умов використання.",
+"A fornecedora se reserva o direito de alterar estes termos de uso a qualquer momento, sem aviso prévio. É sua responsabilidade revisá-los regularmente."
+]
+},
+{
+"art": "h",
+"t": [
+"7. Anwendbares Recht:",
+"7. Applicable law:",
+"7. Droit applicable :",
+"7. Diritto applicabile:",
+"7. Derecho aplicable:",
+"7. Direito aplicável:",
+"7. Uygulanacak hukuk:",
+"7. Prawo właściwe:",
+"7. Hukum yang berlaku:",
+"7. Застосовне право:",
+"7. Direito aplicável:"
+]
+},
+{
+"art": "p",
+"t": [
+"Diese Nutzungsbedingungen unterliegen den Gesetzen Deutschlands.",
+"These terms of use are governed by the laws of Germany.",
+"Les présentes conditions d'utilisation sont soumises au droit allemand.",
+"Le presenti condizioni d'uso sono soggette alle leggi della Germania.",
+"Las presentes condiciones de uso se rigen por la legislación alemana.",
+"Estes Termos de Utilização estão sujeitos às leis da Alemanha.",
+"Bu kullanım koşulları Almanya yasalarına tabidir.",
+"Niniejsze warunki użytkowania podlegają prawu niemieckiemu.",
+"Syarat dan ketentuan penggunaan ini tunduk pada hukum Jerman.",
+"Ці умови використання підпадають під дію законодавства Німеччини.",
+"Estes termos de uso estão sujeitos às leis da Alemanha."
+]
+},
+{
+"art": "p",
+"t": [
+"Mit dem Herunterladen und der Nutzung dieser App erklären Sie sich mit den oben genannten Nutzungsbedingungen einverstanden.",
+"By downloading and using this app, you agree to the terms of use above.",
+"En téléchargeant et en utilisant cette application, vous acceptez les conditions d'utilisation ci-dessus.",
+"Scaricando e utilizzando questa app accetti le condizioni d'uso sopra indicate.",
+"Al descargar y usar esta app aceptas las condiciones de uso anteriores.",
+"Ao descarregar e utilizar esta app, aceita as condições de utilização acima.",
+"Bu uygulamayı indirip kullanarak yukarıdaki kullanım koşullarını kabul etmiş olursunuz.",
+"Pobierając aplikację i korzystając z niej, akceptujesz powyższe warunki.",
+"Dengan mengunduh dan menggunakan aplikasi ini, Anda menyetujui ketentuan penggunaan di atas.",
+"Завантажуючи та використовуючи цей застосунок, ви погоджуєтеся з наведеними вище умовами.",
+"Ao baixar e usar este app, você concorda com os termos de uso acima."
+]
+},
+{
+"art": "p",
+"t": [
+"Start-up-Assist HHR UG (haftungsbeschränkt)",
+"Start-up-Assist HHR UG (limited liability)",
+"Start-up-Assist HHR UG (à responsabilité limitée)",
+"Start-up-Assist HHR UG (a responsabilità limitata)",
+"Start-up-Assist HHR UG (responsabilidad limitada)",
+"Start-up-Assist HHR UG (responsabilidade limitada)",
+"Start-up-Assist HHR UG (sınırlı sorumluluk)",
+"Start-up-Assist HHR UG (z ograniczoną odpowiedzialnością)",
+"Start-up-Assist HHR UG (terbatas tanggung jawab)",
+"Start-up-Assist HHR UG (з обмеженою відповідальністю)",
+"Start-up-Assist HHR UG (responsabilidade limitada)"
+]
+}
+],
+"zustimmung": [
+"Bitte lesen Sie die Nutzungsbedingungen. Mit „Zustimmen“ akzeptieren Sie die Bedingungen einschließlich des Haftungsausschlusses.",
+"Please read the terms of use. By tapping “Agree” you accept the terms, including the disclaimer.",
+"Veuillez lire les conditions d'utilisation. En touchant « Accepter », vous acceptez les conditions, y compris l'exclusion de responsabilité.",
+"Legga le condizioni d'uso. Toccando “Accetto” accetta le condizioni, inclusa l'esclusione di responsabilità.",
+"Lea las condiciones de uso. Al tocar «Aceptar» acepta las condiciones, incluida la exención de responsabilidad.",
+"Leia as condições de utilização. Ao tocar em «Aceitar», aceita as condições, incluindo a exclusão de responsabilidade.",
+"Lütfen kullanım koşullarını okuyun. “Kabul ediyorum”a dokunarak sorumluluk reddi dahil koşulları kabul edersiniz.",
+"Prosimy o zapoznanie się z warunkami korzystania. Dotknięcie „Akceptuję” oznacza akceptację warunków wraz z wyłączeniem odpowiedzialności.",
+"Silakan baca ketentuan penggunaan. Dengan mengetuk “Setuju”, Anda menerima ketentuan termasuk penafian.",
+"Прочитайте умови використання. Торкнувшись «Погоджуюся», ви приймаєте умови, включно з відмовою від відповідальності.",
+"Leia os termos de uso. Ao tocar em “Aceitar”, você aceita os termos, incluindo a isenção de responsabilidade."
+]
+}

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="./">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="HHR FinancialPlan – Finanzplanung für Gründer und kleine Unternehmen">
+
+  <!--
+    Uncomment the tag below to lay the app out underneath the parts of the
+    screen that the device obstructs, such as a display cutout, the rounded
+    corners of the screen, or a home indicator.
+
+    Without it, the browser keeps the app clear of them, and `SafeArea` and
+    `MediaQuery.paddingOf` report no padding. With it, the app covers the whole
+    screen, and it is up to the app to keep its own content out of the way,
+    which is what `SafeArea` is for.
+  -->
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"> -->
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="theme-color" content="#17406D">
+  <meta name="apple-mobile-web-app-title" content="HHR FinancialPlan">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>HHR FinancialPlan</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <!--
+    You can customize the "flutter_bootstrap.js" script.
+    This is useful to provide a custom configuration to the Flutter loader
+    or to give the user feedback during the initialization process.
+
+    For more details:
+    * https://docs.flutter.dev/platform-integration/web/initialization
+  -->
+  <script src="flutter_bootstrap.js" async></script>
+  <script>
+    // Offline-Nutzung: App-Dateien auf dem Gerät speichern (sw.js).
+    // Neue Version: bei jedem Start und jedes Mal, wenn die App wieder in den
+    // Vordergrund kommt, nach einer neuen sw.js fragen. iOS lässt
+    // Home-Bildschirm-Apps oft im Hintergrund weiterlaufen, ohne diese Prüfung
+    // bliebe dort die alte Version. Ist eine neue Version aktiv, lädt die
+    // Seite kurz nach dem Start von selbst neu, sonst erscheint ein Hinweis
+    // zum Neuladen. Die Pläne (localStorage) bleiben dabei unberührt.
+    if ('serviceWorker' in navigator && window.isSecureContext) {
+      var hhrStart = Date.now();
+      var hhrHatteVersion = !!navigator.serviceWorker.controller;
+      var hhrNeuGeladen = false;
+      function hhrNeuLaden() {
+        if (hhrNeuGeladen) return;
+        hhrNeuGeladen = true;
+        window.location.reload();
+      }
+      function hhrHinweis() {
+        if (document.getElementById('hhr-update')) return;
+        var de = (navigator.language || '').toLowerCase().indexOf('de') === 0;
+        var box = document.createElement('div');
+        box.id = 'hhr-update';
+        box.setAttribute('role', 'alert');
+        box.style.cssText = 'position:fixed;left:12px;right:12px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:2147483647;'
+          + 'background:#17406D;color:#fff;border-radius:12px;padding:12px 14px;display:flex;gap:12px;align-items:center;'
+          + 'font:15px/1.3 -apple-system,Segoe UI,Roboto,sans-serif;box-shadow:0 4px 16px rgba(0,0,0,.3)';
+        var text = document.createElement('span');
+        text.style.flex = '1';
+        text.textContent = de ? 'Neue Version verfügbar.' : 'A new version is available.';
+        var knopf = document.createElement('button');
+        knopf.textContent = de ? 'Jetzt laden' : 'Load now';
+        knopf.style.cssText = 'background:#fff;color:#17406D;border:0;border-radius:8px;padding:8px 14px;font:600 15px sans-serif;cursor:pointer';
+        knopf.onclick = hhrNeuLaden;
+        box.appendChild(text);
+        box.appendChild(knopf);
+        document.body.appendChild(box);
+      }
+      navigator.serviceWorker.addEventListener('controllerchange', function () {
+        // Erste Installation: nichts zu tun, die Seite ist schon aktuell.
+        if (!hhrHatteVersion) { hhrHatteVersion = true; return; }
+        if (document.visibilityState === 'hidden' || Date.now() - hhrStart < 8000) hhrNeuLaden();
+        else hhrHinweis();
+      });
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('sw.js', {updateViaCache: 'none'}).then(function (reg) {
+          function pruefen() { reg.update().catch(function () {}); }
+          document.addEventListener('visibilitychange', function () {
+            if (document.visibilityState === 'visible') { hhrStart = Date.now(); pruefen(); }
+          });
+          window.addEventListener('online', pruefen);
+          setInterval(pruefen, 60 * 60 * 1000);
+        }).catch(function (e) { console.warn('Offline-Speicher nicht verfügbar', e); });
+      });
+    }
+  </script>
+</body>
+</html>

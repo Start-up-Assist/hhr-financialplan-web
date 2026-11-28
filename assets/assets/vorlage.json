@@ -1,0 +1,1805 @@
+{
+"name": "",
+"startDate": null,
+"years": 7,
+"ustPflicht": true,
+"istVersteuerung": true,
+"kapitalgesellschaft": true,
+"kstSatz": 0.15,
+"kstMonate": [
+3,
+6,
+9,
+12
+],
+"gewstPflicht": true,
+"gewstMonate": [
+2,
+5,
+8,
+11
+],
+"gewstMesszahl": 0.035,
+"gewstHebesatz": 4.0,
+"gewstFreibetrag": 24500.0,
+"habenzins": 0.0,
+"sollzins": 0.0,
+"forderungsverteilung": [
+0.0,
+0.5,
+0.5,
+0.0,
+0.0
+],
+"provisionsKennung": "/P",
+"eigenmittel": [],
+"gruenderzuschuss": [],
+"sonstigeEinzahlungen": [],
+"sonstigeAuszahlungen": [],
+"ratendarlehen": [
+{
+"auszahlung": null,
+"betrag": 0.0,
+"zins": 0.0,
+"tilgungsbeginn": null,
+"monatlich": false,
+"laufzeitMonate": 0
+},
+{
+"auszahlung": null,
+"betrag": 0.0,
+"zins": 0.0,
+"tilgungsbeginn": null,
+"monatlich": false,
+"laufzeitMonate": 0
+},
+{
+"auszahlung": null,
+"betrag": 0.0,
+"zins": 0.0,
+"tilgungsbeginn": null,
+"monatlich": false,
+"laufzeitMonate": 0
+}
+],
+"annuitaetendarlehen": [
+{
+"auszahlung": null,
+"betrag": 0.0,
+"zins": 0.0,
+"beginn": null,
+"monatlich": false,
+"tilgungssatz": 0.0
+},
+{
+"auszahlung": null,
+"betrag": 0.0,
+"zins": 0.0,
+"beginn": null,
+"monatlich": false,
+"tilgungssatz": 0.0
+},
+{
+"auszahlung": null,
+"betrag": 0.0,
+"zins": 0.0,
+"beginn": null,
+"monatlich": false,
+"tilgungssatz": 0.0
+}
+],
+"erloese": [
+{
+"zeile": 13,
+"name": "Produkt 1",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 14,
+"name": "Produkt 2",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 15,
+"name": "Produkt 3",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 16,
+"name": "Produkt 4",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 17,
+"name": "Produkt 5",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 18,
+"name": "Produkt 6",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 19,
+"name": "Produkt 7",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 20,
+"name": "Produkt 8",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 21,
+"name": "Produkt 9",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 22,
+"name": "Produkt 10",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 23,
+"name": "Produkt 11",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 24,
+"name": "Produkt 12",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 25,
+"name": "Produkt 13",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 26,
+"name": "Produkt 14",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 27,
+"name": "Produkt 15",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 28,
+"name": "Produkt 16",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 29,
+"name": "Produkt 17",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 30,
+"name": "Produkt 18",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 31,
+"name": "Produkt 19",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 32,
+"name": "Produkt 20",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 33,
+"name": "Produkt 21",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 34,
+"name": "Produkt 22",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 35,
+"name": "Produkt 23",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 36,
+"name": "Produkt 24",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 37,
+"name": "Produkt 25",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+}
+],
+"sonstigeErtraege": [
+{
+"zeile": 39,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 40,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 41,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 42,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 43,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+}
+],
+"wareneinkauf": [
+{
+"zeile": 48,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 49,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 50,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 51,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 52,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 53,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 54,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 55,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 56,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 57,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 58,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 59,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 60,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 61,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 62,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 63,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 64,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 65,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 66,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 67,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 68,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 69,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 70,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 71,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 72,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 73,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+}
+],
+"fremdleistungen": [
+{
+"zeile": 75,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 76,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 77,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 78,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 79,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 80,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 81,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 82,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 83,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+},
+{
+"zeile": 84,
+"name": "-",
+"ustSatz": 0.19,
+"menge": [],
+"preis": []
+}
+],
+"provision": {
+"satz": [],
+"ustSatz": 0.0
+},
+"kosten": {
+"raumkosten": [
+{
+"zeile": 93,
+"name": "Büromiete",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 94,
+"name": "Heizung",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 95,
+"name": "Strom",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 96,
+"name": "Wasser",
+"ustSatz": 0.07,
+"betrag": []
+},
+{
+"zeile": 97,
+"name": "Reinigung",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 98,
+"name": "Sonstiges",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 99,
+"name": "NN1",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 100,
+"name": "NN2",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 101,
+"name": "NN3",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 102,
+"name": "NN4",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 103,
+"name": "NN5",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 104,
+"name": "Hallenmiete",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 105,
+"name": "Heizung",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 106,
+"name": "Strom",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 107,
+"name": "Wasser",
+"ustSatz": 0.07,
+"betrag": []
+},
+{
+"zeile": 108,
+"name": "Reinigung",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 109,
+"name": "Sonstiges",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 110,
+"name": "NN1",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 111,
+"name": "NN2",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 112,
+"name": "NN3",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 113,
+"name": "NN4",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 114,
+"name": "NN5",
+"ustSatz": 0.19,
+"betrag": []
+}
+],
+"fahrzeugkosten": [
+{
+"zeile": 116,
+"name": "Leasing Fahrzeug #1",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 117,
+"name": "Nebenkosten Fahrzeug #1",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 118,
+"name": "KfZ-Steuer/Versicherung Fahrzeug #1",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 119,
+"name": "Sonstiges Fahrzeug #1",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 120,
+"name": "Leasing Fahrzeug #2",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 121,
+"name": "Nebenkosten Fahrzeug #2",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 122,
+"name": "KfZ-Steuer/Versicherung Fahrzeug #2",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 123,
+"name": "Sonstiges Fahrzeug #2",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 124,
+"name": "Leasing Fahrzeug #3",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 125,
+"name": "Nebenkosten Fahrzeug #3",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 126,
+"name": "KfZ-Steuer/Versicherung Fahrzeug #3",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 127,
+"name": "Sonstiges Fahrzeug #3",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 128,
+"name": "Bahnkarte #1",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 129,
+"name": "Bahnkarte #2",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 130,
+"name": "Bahnkarte #3",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 131,
+"name": "NN1",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 132,
+"name": "NN2",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 133,
+"name": "NN3",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 134,
+"name": "NN4",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 135,
+"name": "NN5",
+"ustSatz": 0.19,
+"betrag": []
+}
+],
+"kommunikation": [
+{
+"zeile": 137,
+"name": "Internetauftritt",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 138,
+"name": "Kommunikation (Telefon etc.)",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 139,
+"name": "EDV/IT",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 140,
+"name": "Verbandsbeiträge",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 141,
+"name": "Informationen/Zeitschriften",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 142,
+"name": "Marketing/Werbung",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 143,
+"name": "Büromaterial",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 144,
+"name": "Gema/GEZ",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 145,
+"name": "Reisekosten",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 146,
+"name": "Sonstiges",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 147,
+"name": "NN1",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 148,
+"name": "NN2",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 149,
+"name": "NN3",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 150,
+"name": "NN4",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 151,
+"name": "NN5",
+"ustSatz": 0.19,
+"betrag": []
+}
+],
+"versicherungen": [
+{
+"zeile": 153,
+"name": "Betriebshaftpflichtversicherung",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 154,
+"name": "Vermögensschadenhaftpflichtversicherung",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 155,
+"name": "Betriebsunterbrechungsversicherung",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 156,
+"name": "Inhaltsversicherung",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 157,
+"name": "Maschinen- und Elektronikversicherung",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 158,
+"name": "Berufshaftpflichtversicherung",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 159,
+"name": "Rechtsschutzversicherung",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 160,
+"name": "Unfallversicherung",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 161,
+"name": "Berufsunfähigkeitsversicherung",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 162,
+"name": "Krankentagegeldversicherung",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 163,
+"name": "Krankenversicherung",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 164,
+"name": "Altersvorsorgeversicherung",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 165,
+"name": "Berufsgenossenschaft",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 166,
+"name": "NN1",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 167,
+"name": "NN2",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 168,
+"name": "NN3",
+"ustSatz": 0.0,
+"betrag": []
+},
+{
+"zeile": 169,
+"name": "NN4",
+"ustSatz": 0.0,
+"betrag": []
+}
+],
+"reparatur": [
+{
+"zeile": 171,
+"name": "Wartung",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 172,
+"name": "Instandhaltung",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 173,
+"name": "Reparaturen",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 174,
+"name": "Sonstiges",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 175,
+"name": "Betriebskosten Produktionsmaschine (Strom etc.)",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 176,
+"name": "NN2",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 177,
+"name": "NN3",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 178,
+"name": "NN4",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 179,
+"name": "NN5",
+"ustSatz": 0.19,
+"betrag": []
+}
+],
+"warenabgabe": [
+{
+"zeile": 181,
+"name": "Lagerkosten",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 182,
+"name": "Ausgangsfrachten",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 183,
+"name": "Prüfungskosten (IHK etc.)",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 184,
+"name": "Sonstiges",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 185,
+"name": "NN1",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 186,
+"name": "NN2",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 187,
+"name": "NN3",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 188,
+"name": "NN4",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 189,
+"name": "NN5",
+"ustSatz": 0.19,
+"betrag": []
+}
+],
+"sonstigeKosten": [
+{
+"zeile": 191,
+"name": "Beratungen",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 192,
+"name": "Steuerberater/WP",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 193,
+"name": "Weiterbildung",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 194,
+"name": "Bewirtung",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 195,
+"name": "Bankkosten",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 196,
+"name": "Verschiedenes/Reserve",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 197,
+"name": "Sonstige Kosten",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 198,
+"name": "NN1",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 199,
+"name": "NN2",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 200,
+"name": "NN3",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 201,
+"name": "NN4",
+"ustSatz": 0.19,
+"betrag": []
+},
+{
+"zeile": 202,
+"name": "NN5",
+"ustSatz": 0.19,
+"betrag": []
+}
+]
+},
+"personal": [
+{
+"zeile": 206,
+"name": "-",
+"sozialSatz": 0.23,
+"anzahl": [],
+"gehalt": []
+},
+{
+"zeile": 207,
+"name": "-",
+"sozialSatz": 0.23,
+"anzahl": [],
+"gehalt": []
+},
+{
+"zeile": 208,
+"name": "-",
+"sozialSatz": 0.23,
+"anzahl": [],
+"gehalt": []
+},
+{
+"zeile": 209,
+"name": "-",
+"sozialSatz": 0.23,
+"anzahl": [],
+"gehalt": []
+},
+{
+"zeile": 210,
+"name": "-",
+"sozialSatz": 0.23,
+"anzahl": [],
+"gehalt": []
+},
+{
+"zeile": 211,
+"name": "-",
+"sozialSatz": 0.23,
+"anzahl": [],
+"gehalt": []
+},
+{
+"zeile": 212,
+"name": "-",
+"sozialSatz": 0.23,
+"anzahl": [],
+"gehalt": []
+},
+{
+"zeile": 213,
+"name": "-",
+"sozialSatz": 0.23,
+"anzahl": [],
+"gehalt": []
+},
+{
+"zeile": 214,
+"name": "-",
+"sozialSatz": 0.23,
+"anzahl": [],
+"gehalt": []
+},
+{
+"zeile": 215,
+"name": "-",
+"sozialSatz": 0.23,
+"anzahl": [],
+"gehalt": []
+},
+{
+"zeile": 216,
+"name": "-",
+"sozialSatz": 0.23,
+"anzahl": [],
+"gehalt": []
+},
+{
+"zeile": 217,
+"name": "-",
+"sozialSatz": 0.23,
+"anzahl": [],
+"gehalt": []
+},
+{
+"zeile": 218,
+"name": "-",
+"sozialSatz": 0.23,
+"anzahl": [],
+"gehalt": []
+},
+{
+"zeile": 219,
+"name": "-",
+"sozialSatz": 0.23,
+"anzahl": [],
+"gehalt": []
+},
+{
+"zeile": 220,
+"name": "-",
+"sozialSatz": 0.23,
+"anzahl": [],
+"gehalt": []
+}
+],
+"investitionen": [
+{
+"zeile": 267,
+"name": "Maschine 1",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 268,
+"name": "Maschine 2",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 269,
+"name": "Maschine 3",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 270,
+"name": "Maschine 4",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 271,
+"name": "Maschine 5",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 272,
+"name": "Maschine 6",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 273,
+"name": "Maschine 7",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 274,
+"name": "Maschine 8",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 275,
+"name": "Maschine 9",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 276,
+"name": "Maschine 10",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 277,
+"name": "Maschine 11",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 278,
+"name": "Maschine 12",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 279,
+"name": "Maschine 13",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 280,
+"name": "Maschine 14",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 281,
+"name": "Maschine 15",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 282,
+"name": "Maschine 16",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 283,
+"name": "Maschine 17",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 284,
+"name": "Maschine 18",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 285,
+"name": "Maschine 19",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 286,
+"name": "Maschine 20",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 287,
+"name": "Maschine 21",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 288,
+"name": "Maschine 22",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 289,
+"name": "Maschine 23",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 290,
+"name": "Maschine 24",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 291,
+"name": "Maschine 25",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 292,
+"name": "Maschine 26",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 293,
+"name": "Maschine 27",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 294,
+"name": "Maschine 28",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 295,
+"name": "Maschine 29",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 296,
+"name": "Maschine 30",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+},
+{
+"zeile": 297,
+"name": "Maschine 31",
+"datum": null,
+"nettopreis": 0.0,
+"afaJahre": 0.0,
+"ustSatz": 0.19
+}
+],
+"privat": {
+"inflationAbJahr": 2026,
+"positionen": [
+{
+"zeile": 10,
+"name": "Miete oder vgl. Belastung",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 11,
+"name": "Strom",
+"monatlich": 0.0,
+"inflation": 0.02,
+"art": "kosten"
+},
+{
+"zeile": 12,
+"name": "Heizung",
+"monatlich": 0.0,
+"inflation": 0.02,
+"art": "kosten"
+},
+{
+"zeile": 13,
+"name": "Wasser",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 14,
+"name": "Müll",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 15,
+"name": "Telefon",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 16,
+"name": "Rundfunk/Fernsehen",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 17,
+"name": "Sonstiges z.B. Grundsteuern",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 18,
+"name": "Haushaltsgeld",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 19,
+"name": "Internet",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 22,
+"name": "Lebensversicherung",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 23,
+"name": "Krankenversicherung",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 24,
+"name": "Unfallversicherung",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 25,
+"name": "Berufsunfähigkeits-Versicherung",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 26,
+"name": "Rentenversicherung/Altersvorsorge",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 27,
+"name": "Hausratsversicherung",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 28,
+"name": "Haftpflicht",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 29,
+"name": "Rechtsschutz",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 30,
+"name": "Sonstiges, Rücklagen",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 33,
+"name": "Kredit/Leasing",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 34,
+"name": "Versicherungen",
+"monatlich": 0.0,
+"inflation": 0.03,
+"art": "kosten"
+},
+{
+"zeile": 35,
+"name": "Beiträge, z. B. ADAC",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 36,
+"name": "Benzin",
+"monatlich": 0.0,
+"inflation": 0.03,
+"art": "kosten"
+},
+{
+"zeile": 37,
+"name": "Steuern",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 38,
+"name": "Reparaturen",
+"monatlich": 0.0,
+"inflation": 0.03,
+"art": "kosten"
+},
+{
+"zeile": 41,
+"name": "Unterhalt ",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 42,
+"name": "Kredite",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 45,
+"name": "Freizeit/Unterhaltung",
+"monatlich": 0.0,
+"inflation": 0.03,
+"art": "kosten"
+},
+{
+"zeile": 46,
+"name": "Urlaub",
+"monatlich": 0.0,
+"inflation": 0.03,
+"art": "kosten"
+},
+{
+"zeile": 47,
+"name": "Ersatzanschaffungen",
+"monatlich": 0.0,
+"inflation": 0.03,
+"art": "kosten"
+},
+{
+"zeile": 48,
+"name": "Private Steuern",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "kosten"
+},
+{
+"zeile": 51,
+"name": "+ Sonstige Einnahmen (Kindergeld)",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "einnahme"
+},
+{
+"zeile": 52,
+"name": "+ Unterhaltszahlungen",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "einnahme"
+},
+{
+"zeile": 53,
+"name": "+ NN",
+"monatlich": 0.0,
+"inflation": 0.0,
+"art": "einnahme"
+}
+]
+}
+}
